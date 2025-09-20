@@ -12,6 +12,6 @@ By adding your GitHub username to the list below, you agree to the following:
 [LGPL]: https://www.gnu.org/licenses/lgpl-3.0.en.html
 
 ## Signed Contributors
-Add yourself here if you agree to the above, keep the list format as is and add yourself at the bottom.
+Add your GitHub username here if you agree to the above, keep the list format as is, and add yourself at the bottom.
 
 - BOLL7708
