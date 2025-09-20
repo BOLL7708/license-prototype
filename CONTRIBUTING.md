@@ -11,8 +11,8 @@ Thanks for helping improve this project!
 [depends on project]
 
 ## Licensing
-- The project is licensed under [GPLv3](GPL).  
-- By signing the CLA, you also grant a non-exclusive secondary [LGPLv3](LGPL) license to GitHub user [BOLL7708](BOLL7708) so the project can be published on platforms that do not accept GPLv3.
+- The project is licensed under [GPLv3][GPL].  
+- By signing the CLA, you also grant a non-exclusive secondary [LGPLv3][LGPL] license to GitHub user [BOLL7708][BOLL7708] so the project can be published on platforms that do not accept GPLv3.
 
 [BOLL7708]: https://github.com/BOLL7708
 [GPL]: https://www.gnu.org/licenses/gpl-3.0.html
