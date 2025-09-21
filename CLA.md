@@ -8,7 +8,7 @@ By adding your GitHub username to the list below, you agree to the following:
 - You will only submit code you have the rights to license.  
 - This agreement is perpetual and cannot be revoked.  
 
-[PROFILE]: (https://github.com/BOLL7708)
+[PROFILE]: https://github.com/BOLL7708
 [GPL]: https://www.gnu.org/licenses/gpl-3.0.html
 [LGPL]: https://www.gnu.org/licenses/lgpl-3.0.en.html
 
