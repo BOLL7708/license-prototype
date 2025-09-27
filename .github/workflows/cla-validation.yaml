@@ -6,8 +6,8 @@ on:
 jobs:
   validate-cla:
     permissions:
+      contents: read
       pull-requests: write
-      issues: write
     uses: BOLL7708/reusable_workflows/.github/workflows/cla-validator.yaml@use
     secrets:
       TOKEN : ${{ secrets.GITHUB_TOKEN }}
