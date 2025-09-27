@@ -19,3 +19,5 @@ Try AI change for secret location.
 Try more permissions.
 
 Moving stuff to env after reading docs.
+
+Added script github-token back in, as well as awaits.
