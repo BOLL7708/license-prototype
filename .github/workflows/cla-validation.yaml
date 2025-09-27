@@ -7,4 +7,4 @@ jobs:
   validate-cla:
     permissions:
       pull-requests: write
-    uses: BOLL7708/reusable_workflows/.github/workflows/cla-validator.yml@use
+    uses: BOLL7708/reusable_workflows/.github/workflows/cla-validator.yaml@use
