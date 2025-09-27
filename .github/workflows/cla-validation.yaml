@@ -9,4 +9,4 @@ jobs:
       pull-requests: write
     uses: BOLL7708/reusable_workflows/.github/workflows/cla-validator.yaml@use
     secrets:
-      token : ${{ secrets.GITHUB_TOKEN }}
+      TOKEN : ${{ secrets.GITHUB_TOKEN }}
