@@ -8,6 +8,7 @@ jobs:
     permissions:
       contents: read
       pull-requests: write
+      issues: write
     uses: BOLL7708/reusable_workflows/.github/workflows/cla-validator.yaml@use
     secrets:
       REMOTE_TOKEN : ${{ secrets.GITHUB_TOKEN }}
