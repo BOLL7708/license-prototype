@@ -15,3 +15,5 @@ Added a reference, we'll see if the rest calls uses it automatically or not.
 Fix stupid mistake.
 
 Try AI change for secret location.
+
+Try more permissions.
