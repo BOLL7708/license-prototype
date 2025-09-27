@@ -9,3 +9,5 @@ This time we added a forward of the GITHUB_TOKEN, we'll see if that automaticall
 Broke the chain, will have to try again.
 
 Reservered name, try to simply forward the token, then we will figure out how to use it.
+
+Added a reference, we'll see if the rest calls uses it automatically or not.
