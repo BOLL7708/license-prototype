@@ -17,3 +17,5 @@ Fix stupid mistake.
 Try AI change for secret location.
 
 Try more permissions.
+
+Moving stuff to env after reading docs.
