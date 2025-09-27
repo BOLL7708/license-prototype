@@ -21,3 +21,5 @@ Try more permissions.
 Moving stuff to env after reading docs.
 
 Added script github-token back in, as well as awaits.
+
+Added a lot of AI suggestions, and skipped some.
