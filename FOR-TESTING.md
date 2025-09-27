@@ -27,3 +27,5 @@ Added a lot of AI suggestions, and skipped some.
 AI tells me to use a PAT, Personal Access Token. Maybe if this doesn't work...
 
 I forgot to push, please work now.
+
+Fix the AI bug with an AI fix, because I'm tired.
