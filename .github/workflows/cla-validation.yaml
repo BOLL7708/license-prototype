@@ -2,14 +2,11 @@ name: CLA Validation
 
 on:
   pull_request:
-
-permissions:
-  contents: read
-  pull-requests: write
-  issues: write
-
+  
 jobs:
   validate-cla:
     uses: BOLL7708/reusable_workflows/.github/workflows/cla-validator.yaml@use
-    secrets:
-      REMOTE_TOKEN : ${{ secrets.GITHUB_TOKEN }}
+    permissions:
+      contents: read
+      pull-requests: write
+      issues: write
