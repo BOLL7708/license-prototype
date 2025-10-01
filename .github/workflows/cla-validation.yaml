@@ -2,9 +2,10 @@ name: CLA Validation
 
 on:
   pull_request:
-
+  
 jobs:
   validate-cla:
-    permissions:
-      pull-requests: write
     uses: BOLL7708/reusable_workflows/.github/workflows/cla-validator.yaml@use
+    permissions:
+      contents: read
+      pull-requests: write
