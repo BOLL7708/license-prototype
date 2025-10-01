@@ -31,3 +31,5 @@ I forgot to push, please work now.
 Fix the AI bug with an AI fix, because I'm tired.
 
 Testing to move permissions.
+
+Remove user auth debug shizzle.
