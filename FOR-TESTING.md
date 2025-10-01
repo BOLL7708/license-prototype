@@ -35,3 +35,5 @@ Testing to move permissions.
 Remove user auth debug shizzle.
 
 Added issues permission back into reusable script.
+
+Reverting to using GITHUB_TOKEN.
