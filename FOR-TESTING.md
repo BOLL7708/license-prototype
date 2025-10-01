@@ -34,6 +34,8 @@ Testing to move permissions.
 
 Remove user auth debug shizzle.
 
+Add missing envs.
+
 Added issues permission back into reusable script.
 
 Reverting to using GITHUB_TOKEN.
